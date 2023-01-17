@@ -24,7 +24,7 @@ def get_upcoming_games(standings):
     import argparse
     import requests
 
-    api_key = '19732981f25c341dcbdee8b752688c04'
+    api_key = ''
     sport = 'upcoming'
     regions = 'us'
     markets = 'h2h'
