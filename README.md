@@ -12,7 +12,7 @@ Still have a ton to do.
 - add function for EV
 
 ### Long-term To-Do
-- spend 7 days hitting the nba_api for pbp data
+- spend 7 years hitting the nba_api for pbp data
 - full RAPM calculation, feature eng
 - NN regressor for predict APM or RAPM
 - additional feature engineer/selection
