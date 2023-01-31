@@ -182,7 +182,7 @@ def get_upcoming_games(teams_df):
     import argparse
     import requests
 
-    api_key = '19732981f25c341dcbdee8b752688c04'
+    api_key = ''
     sport = 'upcoming'
     regions = 'us'
     markets = 'h2h'
@@ -592,10 +592,10 @@ predictions = run_predictions(pred_df, odds, lgb_runner, map_df)
 
 for index, row in predictions.iterrows():
     
-    consumer_key = 'Pifp5JVGnbrZQ84zHSvpyCe1v'
-    consumer_secret = 'IUF9G1EH8o2qhSuD2rGQCBCL4Of2TbhfU0u2Jertam0aWhM0KH'
-    access_token = '1619532564523261957-lMnnrq4g6Q2Y2Jqk1SZ6jBy7h3xQRq'
-    access_token_secret = 'yhStGBKv6YdbG3CtJ9lS7w4Rl6OJR3oXhOAmOShQN2vC7'
+    consumer_key = ''
+    consumer_secret = ''
+    access_token = ''
+    access_token_secret = ''
 
     client = tweepy.Client(consumer_key = consumer_key,
                            consumer_secret = consumer_secret,
