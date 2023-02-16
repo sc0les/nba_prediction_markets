@@ -2,7 +2,7 @@
 
 Still have a ton to do.
 
-[Track bets: @NBABetsBot](https://twitter.com/NBABetsBot)
+~[Track bets: @NBABetsBot](https://twitter.com/NBABetsBot)~ Nevermind, Elon doesn't know how to run social product
 
 ## To-Do Lists
 ### Short-term To-Do
